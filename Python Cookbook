@@ -1,0 +1,2 @@
+dir: Function that can be used to list all the methods of a class
+    eg: dir(list)
